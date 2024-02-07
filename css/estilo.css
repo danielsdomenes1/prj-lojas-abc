@@ -6,3 +6,8 @@
      display: flexbox;
      color: #000;
  }
+ .modal-carrinho{
+    display: inline;
+    color: brown;
+    justify-content: center;
+ }
