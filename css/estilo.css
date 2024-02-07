@@ -2,3 +2,7 @@
     display: flex;
     padding: 100%;
 }
+ .carrinho__texto{
+     display: flexbox;
+     color: #000;
+ }
